@@ -1,2 +1,5 @@
 # visual-assets
-Visual assets
+
+> ManoMano Visual assets
+
+© ManoMano
