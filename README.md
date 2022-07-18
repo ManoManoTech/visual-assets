@@ -1,0 +1,2 @@
+# visual-assets
+Visual assets
